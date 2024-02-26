@@ -1,0 +1,9 @@
+百度安装教程  哔哩哔哩 安装环境软件的视频
+jdk 1.8 
+nodejs 14 & 16 & 18  带vue的项目才需要安装
+mysql 5.7   mysql8.0    windows 家庭版 安装mysql 5.7
+idea 和 eclipse  vscode  最好最新版   
+navicat 15 百度教程  杀毒关掉 断网激活
+maven 要配置阿里云
+有的项目要配置redis
+
